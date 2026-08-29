@@ -1,0 +1,4 @@
+interface:
+  display_name: "Public Business Research"
+  short_description: "Research 50 verified public business leads per batch"
+  default_prompt: "Use $public-business-research to research a new batch of public business contacts."
